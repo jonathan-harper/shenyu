@@ -28,7 +28,7 @@
     <artifactId>shenyu-bootstrap</artifactId>
 
     <properties>
-        <curator.version>4.0.1</curator.version>
+        <curator.version>5.2.0</curator.version>
     </properties>
 
     <dependencies>
@@ -178,7 +178,7 @@
         <dependency>
             <groupId>com.alipay.sofa</groupId>
             <artifactId>sofa-rpc-all</artifactId>
-            <version>5.7.6</version>
+            <version>5.8.0</version>
         </dependency>
      <!--   <dependency>
             <groupId>org.apache.curator</groupId>
